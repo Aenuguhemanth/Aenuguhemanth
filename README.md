@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aenugu Hemanth</h1>
+<h1 align="center">Hi 👋, I'm Hemanth Aenugu</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aenuguhemanth&label=Profile%20views&color=0e75b6&style=flat" alt="aenuguhemanth" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aenuguhemanth" alt="aenuguhemanth" /></a> </p>
-
-- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **marcshemanthraj@gmail.com**
 
