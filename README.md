@@ -10,7 +10,7 @@ Hi there! I'm **Hemanth Aenugu**, a passionate **Cybersecurity student** and **A
 
 
 ## 🎯 Current Goals
-- [ ] Master **Penetration Testing** with practical hands-on projects.
+- [ ] Master **Cybersecuirty Operations** with practical hands-on projects.
 - [ ] Contribute to **Open Source Cybersecurity Projects**.
 - [ ] Explore AI-driven **Threat Detection** models.
 
