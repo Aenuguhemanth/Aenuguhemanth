@@ -23,7 +23,7 @@ Hi there! I'm **Hemanth Aenugu**, a passionate **Cybersecurity student** and **A
 - **Languages**: Python, C, C++, JavaScript
 - **Security Tools**: Kali Linux, Burp Suite, Metasploit, Wireshark
 - **Machine Learning**: TensorFlow, Keras, Scikit-learn
-- **Cloud Platforms**: AWS, GCP, Azure
+- **Cloud Platforms**: AWS.
 - **Others**: Docker, Git, CI/CD, Jenkins
 
 ## 💡 Quote of the Day
