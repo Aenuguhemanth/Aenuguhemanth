@@ -17,7 +17,7 @@ Hi there! I'm **Hemanth Aenugu**, a passionate **Cybersecurity student** and **A
 ## 💬 Let's Connect
 - ✉️ **Email**: [hemanthaenugu@gmail.com](mailto:hemanthaenugu@gmail.com)
 - 💼 **LinkedIn**: [HemanthAenugu](https://www.linkedin.com/in/hemanth-275a48265/?profileId=ACoAAEEdw3kBoH_BUP7mnsUHnV2NY3eYpE5OwEg)
-- 🐦 **Twitter**: [@hemanthaenugu]
+- 🐦 **Personal Portfolio**: https://hemanth.info
 
 ## 🛠️ Technologies & Tools I Use
 - **Languages**: Python, C, C++, JavaScript
